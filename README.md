@@ -1,1 +1,3 @@
-![Weezy](./banner.png)
+`
+^_^
+`
