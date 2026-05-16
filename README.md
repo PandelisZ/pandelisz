@@ -10,8 +10,6 @@
   <p>
     <a href="https://pa.ndel.is">pa.ndel.is</a>
     ·
-    <a href="https://github.com/PandelisZ?tab=repositories">open source</a>
-    ·
     London
   </p>
 </div>
@@ -50,10 +48,3 @@
 | [Flagmatic5000](https://github.com/PandelisZ/Flagmatic5000) | Maps city locations to country flags. |
 | [gitlab-ci-trace](https://github.com/PandelisZ/gitlab-ci-trace) | Prints CI job traces after commits, Heroku-style. |
 | [hub-tab](https://github.com/PandelisZ/hub-tab) | Quickly navigate to the repository you were just working on. |
-
-<div align="center">
-  <sub>
-    Most of what I publish lives at
-    <a href="https://github.com/PandelisZ?tab=repositories">github.com/PandelisZ</a>.
-  </sub>
-</div>
